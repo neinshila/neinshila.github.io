@@ -487,8 +487,8 @@ left: 0;
 .contact .contact-form .col-12{
     
     -ms-flex: 0 0 100%;
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 100%;
+    max-width: 100%;
 }
 .contact .contact-form .form-item{
     margin-bottom: 30px;
